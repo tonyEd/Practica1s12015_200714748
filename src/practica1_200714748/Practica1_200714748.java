@@ -15,9 +15,10 @@ public class Practica1_200714748 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      
+     Principal inicio= new Principal();
+     inicio.setVisible(true);
         /*CUALQUIER */
-         otro
+         
     }
     
 }
